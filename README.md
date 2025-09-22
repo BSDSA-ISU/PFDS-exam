@@ -78,6 +78,7 @@ Prepare a **3–5 minute** video where you:
 ---
 
 ## Example folder structure
+```txt
 Local:
 LabExam_Python_DelaCruz/
 └── lab_exam.py
@@ -88,5 +89,4 @@ Google Drive folder "LabExam_Python_DelaCruz":
 ├── LabExam_Python_DelaCruz.zip
 └── LabExam_Video_DelaCruz.mp4
 
-Copy code
-
+```
